@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 2, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "bc02965524dae362a6d5c93e9e0c7dcc", "format-version": 4, "code-base-name": "default", "filename": "finSight_AI/lib/main.dart", "knowledge_revision": 2}
